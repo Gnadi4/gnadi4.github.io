@@ -283,8 +283,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: False
+      author_profile: true
       read_time: true
       comments: true
       share: False
-      related: False
+      related: true
