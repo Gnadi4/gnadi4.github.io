@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "BloGnadi4"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "gnadi4"
-description              : "설명"
+description              : "-"
 url                      : "https://gnadi4.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Gnadi4/gnadi4.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "gnadi4"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "아직 작성중..."
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
